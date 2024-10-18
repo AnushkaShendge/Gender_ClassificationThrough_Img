@@ -1,4 +1,4 @@
-# Gender Classification Using Convolutional Neural Networks
+# Gender Classification Throungh Image Using Convolutional Neural Networks
 
 This project is a Convolutional Neural Network (CNN) model designed to classify images as male or female. The model has been trained on a custom dataset and achieves an accuracy of **96.97%** on the test set.
 
